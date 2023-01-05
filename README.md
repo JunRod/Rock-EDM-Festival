@@ -1,2 +1,2 @@
-# Rock-EDM-Festival
-Web hecha para un concierto
+# Hecho con HTML5, CSS Y JavaScript
+festivalrockconcierto.netlify.app
